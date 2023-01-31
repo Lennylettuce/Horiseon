@@ -1,2 +1,1 @@
-# Horiseon
-Social medial marketing services
+# Code Refactor Starter Code
