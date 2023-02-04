@@ -6,3 +6,7 @@
 3. Social media marketing
 
 #Link to deployed webpage: 
+1.
+
+##Link to cited sources: 
+1.https://www.youtube.com/watch?v=ZThq93Yuwd0
