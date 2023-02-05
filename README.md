@@ -9,4 +9,5 @@
 1.https://lennylettuce.github.io/Horiseon/
 
 ##Link to cited sources: 
-1.https://www.youtube.com/watch?v=ZThq93Yuwd0
+1.https://www.youtube.com/watch?v=ZThq93Yuwd0 - help with semantic elements
+2.https://github.com/coding-boot-camp/urban-octo-telegram -starter code
