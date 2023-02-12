@@ -2,7 +2,7 @@
 This repo has `code` for Horiseon social media marketing webpage.
 Info included:
 
-[![horiseon alt text]]("./assets/images/digital-marketing-meeting.png")
+[![horiseon alt text](./assets/images/digital-marketing-meeting.jpg)](./assets/images/digital-marketing-meeting.png)
 
 1. Search engine optimization
 2. Online reputation management
